@@ -8,10 +8,10 @@
 
  ## Tecnologias que uso no meu dia
 
- <div style= "display: inline_block"><br/>
-
- <img align="center" alt="c#" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<div style="display: inline_block"><br/>
+<img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
- </div><br>
+<img align="center" alt="Banco de Dados" src="https://img.shields.io/badge/Banco%20de%20Dados-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
+</div>
 
  Apaixonado por tecnologia, buscando me aperfeiçoar cada vez mais na área. 
